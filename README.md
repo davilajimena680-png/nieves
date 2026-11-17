@@ -103,6 +103,6 @@ Verde: `MotorJuego` integra puntaje, turnos, victoria y derrota.
 
 ---
 
-## Siguiente
+## Interfaz de la aplicacion
 
-Interfaz con gradientes y animaciones (`presentation/juego_screen.dart`). Pendiente.
+![Todas las pruebas](assets/nieves.png)
